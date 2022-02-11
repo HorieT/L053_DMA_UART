@@ -1,0 +1,7 @@
+dma.h:24:6:DMA_set	24	static
+dma.h:28:6:DMA_start	24	static
+main.c:38:5:main	40	static
+main.c:64:6:PWR_init	8	static
+main.c:67:6:GPIO_init	8	static
+main.c:97:6:DMA_init	8	static
+main.c:101:6:UART_init	8	static
